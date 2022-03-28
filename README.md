@@ -1,5 +1,5 @@
-# This is a copy of a project developed with 4 other people as part of my Le-wagonm Data scicene bootcamp. The original code can be found
-# at https://github.com/Iases22/ser_app. It used google for the docker image. I am looking to port this to AWS  and use sagemaker. 
+## This is a copy of a project developed with 4 other people as part of my Le-wagon Data scicene bootcamp. The original code can be found
+## at https://github.com/Iases22/ser_app. It used google for the docker image. I am looking to port this to AWS  and use sagemaker. 
 
 
 
